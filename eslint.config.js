@@ -9,6 +9,7 @@ export default [
     ignores: [
       'dist/**',
       '**/*.d.ts',
+      '**/*vite.config.ts',
     ]
   },
   
